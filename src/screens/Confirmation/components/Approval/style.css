@@ -1,0 +1,67 @@
+.approvalcontainer {
+  padding: 20px;
+  height: 100%;
+  overflow: auto;
+}
+.bindtext {
+  color: #1b8bec;
+}
+.aggreebtnContainer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.button-next {
+          
+          appearance: none;
+          backface-visibility: hidden;
+          background-color: #006F2F;
+          border-radius: 30px;
+          border-style: none;
+          box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+          box-sizing: border-box;
+          color: #fff;
+          cursor: pointer;
+          display: inline-block;
+          font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          font-weight: 600;
+          letter-spacing: normal;
+          line-height: 1.5;
+          outline: none;
+          overflow: hidden;
+          padding: 13px 100px;
+          position: relative;
+          text-align: center;
+          text-decoration: none;
+          transform: translate3d(0, 0, 0);
+          transition: all .3s;
+          user-select: none;
+          -webkit-user-select: none;
+          touch-action: manipulation;
+          vertical-align: top;
+          white-space: nowrap;
+          top: 0px;
+          left: 80px;
+          
+          
+}
+
+.button-next:hover {
+          background-color: #00BF51;
+          opacity: 1;
+          transform: translateY(0);
+          transition-duration: .35s;
+}
+
+.button-next:active {
+          transform: scale(0.95);
+          
+          border-radius: 1rem;
+}
+
+.button-next:hover {
+          box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+          
+          border-radius: 1rem;
+}

@@ -1,0 +1,29 @@
+.mobile {
+          position: relative;
+          text-align: center;
+
+}
+
+.inputbox {
+          width: 311px;
+          height: 48px;
+          left: calc(50% - 311px/2);
+          top: calc(50% - 48px/2);
+          color: white;
+
+
+          background: #555252;
+          border-radius: 4px;
+}
+
+.button-1 {
+
+          position: absolute;
+          width: 186px;
+          height: 50px;
+          left: 44%;
+          color: white;
+          text-align: center;
+          background: grey;
+          border-radius: 10px;
+}

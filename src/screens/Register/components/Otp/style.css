@@ -1,0 +1,236 @@
+.otp{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+          font-weight: 600;
+          width: 100%;
+          color: #006F2F;
+          padding-top: 40px;
+}
+.otp-text {
+          color: #006F2F;
+          font-size: 32px;
+          padding-top: 40px;
+}
+.otp-text1 {
+          color: #7B7A7F;
+          font-size: 20px;
+          padding-top: 40px;
+}
+.otp-text2 {
+          color: #7B7A7F;
+          font-size: 16px;
+          padding-top: 10px;
+}
+.otp-text3 {
+          color: #fff;
+          font-size: 20px;
+          padding-top: 10px;
+}
+
+.button-next {
+          
+          appearance: none;
+          backface-visibility: hidden;
+          background-color: #006F2F;
+          border-radius: 30px;
+          border-style: none;
+          box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+          box-sizing: border-box;
+          color: #fff;
+          cursor: pointer;
+          display: inline-block;
+          font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          font-weight: 600;
+          letter-spacing: normal;
+          line-height: 1.5;
+          outline: none;
+          overflow: hidden;
+          padding: 13px 100px;
+          position: relative;
+          text-align: center;
+          text-decoration: none;
+          transform: translate3d(0, 0, 0);
+          transition: all .3s;
+          user-select: none;
+          -webkit-user-select: none;
+          touch-action: manipulation;
+          vertical-align: top;
+          white-space: nowrap;
+          left: 40px;
+          
+          
+}
+
+.button-next:hover {
+          background-color: #00BF51;
+          opacity: 1;
+          transform: translateY(0);
+          transition-duration: .35s;
+}
+
+.button-next:active {
+          transform: scale(0.95);
+          
+          border-radius: 1rem;
+}
+
+.button-next:hover {
+          box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+          
+          border-radius: 1rem;
+}
+
+Button {
+	border-radius: 20px;
+	border: 1px solid #FF4B2B;
+	background-color: #FF4B2B;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 40px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+          border-radius: 1rem;
+}
+
+Button:active {
+	transform: scale(0.95);
+          border-radius: 1rem;
+}
+
+Button:focus {
+	outline: none;
+          border-radius: 1rem;
+}
+
+Button.ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+          border-radius: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+          .col-form-label {
+            text-align: left;
+          }
+          .otp {
+            width: 100%;
+            margin-bottom: 50px;
+          }
+          .otp-text1 {
+          color: #7B7A7F;
+          font-size: 20px;
+          padding-top: 40px;
+}
+.otp-text2 {
+          color: #7B7A7F;
+          font-size: 16px;
+          padding-top: 10px;
+}
+.otp-text3 {
+          color: #fff;
+          font-size: 20px;
+          padding-top: 10px;
+}
+
+.button-next {
+          
+          appearance: none;
+          backface-visibility: hidden;
+          background-color: #006F2F;
+          border-radius: 30px;
+          border-style: none;
+          box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+          box-sizing: border-box;
+          color: #fff;
+          cursor: pointer;
+          display: inline-block;
+          font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          font-weight: 600;
+          letter-spacing: normal;
+          line-height: 1.5;
+          outline: none;
+          overflow: hidden;
+          padding: 13px 100px;
+          position: relative;
+          text-align: center;
+          text-decoration: none;
+          transform: translate3d(0, 0, 0);
+          transition: all .3s;
+          user-select: none;
+          -webkit-user-select: none;
+          touch-action: manipulation;
+          vertical-align: top;
+          white-space: nowrap;
+          left: 40px;
+          
+          
+}
+
+.button-next:hover {
+          background-color: #00BF51;
+          opacity: 1;
+          transform: translateY(0);
+          transition-duration: .35s;
+}
+
+.button-next:active {
+          transform: scale(0.95);
+          
+          border-radius: 1rem;
+}
+
+.button-next:hover {
+          box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+          
+          border-radius: 1rem;
+}
+
+Button {
+	border-radius: 20px;
+	border: 1px solid #FF4B2B;
+	background-color: #FF4B2B;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+          border-radius: 1rem;
+}
+
+Button:active {
+	transform: scale(0.95);
+          border-radius: 1rem;
+}
+
+Button:focus {
+	outline: none;
+          border-radius: 1rem;
+}
+
+Button.ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+          border-radius: 1rem;
+}
+        }
+
+        .field {
+          width: 100%;
+          height: 56px;
+          border-radius: 4px;
+          position: relative;
+          background-color: rgba(255,255,255,0.3);
+          transition: 0.3s all;
+        }
+        .field:hover {
+          background-color: rgba(255, 255, 255, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
+        }

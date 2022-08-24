@@ -1,0 +1,17 @@
+.tags {
+  color: white;
+  background: grey;
+  margin: 10px 0;
+  margin-left: 0px;
+  margin-right: 5px;
+  padding: 5px;
+  min-width: 50px;
+  float: bottom;
+}
+.tags span{
+  margin-left: 20px;
+  cursor: pointer;
+}
+.active span{
+  display: block;
+}

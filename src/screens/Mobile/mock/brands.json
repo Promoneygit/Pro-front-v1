@@ -1,0 +1,83 @@
+{
+  "listBrands": [
+          {
+                    "id": "1",
+                    "name": "Samsung"
+                  },
+                  {
+                    "id": "2",
+                    "name": "Apple"
+                  },
+                  {
+                    "id": "3",
+                    "name": "Huawei"
+                  
+                  },
+                  {
+                    "id": "4",
+                    "name": "OPPO"
+                  },
+                  {
+                    "id": "5",
+                    "name": "Vivo"
+                  },
+                  {
+                    "id": "6",
+                    "name": "Nokia"
+        
+                  },
+                  {
+                    "id": "7",
+                    "name": "Sony"
+                  },
+                  {
+                    "id": "8",
+                    "name": "Asus"
+        
+                  },
+                  {
+                    "id": "9",
+                    "name": "Xiaomi"
+
+                  },
+                  {
+                    "id": "10",
+                    "name": "Wiko"
+
+                  },
+                  {
+                    "id": "11",
+                    "name": "TECNO"
+        
+                  },
+                  {
+                    "id": "12",
+                    "name": "Motorola"
+                  },
+                  {
+                    "id": "13",
+                    "name": "nubia"
+                  },
+                  {
+                    "id": "14",
+                    "name": "Lenovo"
+                  },
+                  {
+                    "id": "15",
+                    "name": "AIS"
+                  },
+                  {
+                    "id": "16",
+                    "name": "TRUE"
+                  },
+                  {
+                    "id": "17",
+                    "name": "Dtac"
+                  },
+                  {
+                    "id": "18",
+                    "name": "CAT"
+                  }
+                  
+  ]
+}
